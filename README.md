@@ -1,6 +1,6 @@
 # European-Football-Analysis
 
-
+This application is not hosted. Kindly run on your local system.
 Use streamlit run app.py to run the web app
 
 # App Screenshots
