@@ -12,7 +12,7 @@ italy_df = preprocessor.preprocess_sa()
 
 # Sidebar
 st.sidebar.title("Top 5 European League")
-st.sidebar.image('https://cdn.insidesport.co/wp-content/uploads/2021/07/06231038/0ff190c5-b223-4ea2-b967-dd238c4bb7d5.jpg')
+st.sidebar.image('https://www.moroccoworldnews.com/wp-content/uploads/2021/06/everything-you-need-to-know-about-uefa-euro-2020-800x500.jpg')
 navbar = st.sidebar.radio(
     'Select an option',
     ('Overall Analysis', 'Player Stats', 'Club Rating', 'Goals Ranking', 'Bundesliga', 'La Liga', 'Ligue 1',
